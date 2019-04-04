@@ -50,3 +50,7 @@ p {
   font-size: 1em;
   margin: 0 0 20px 0;
 }
+
+#learn-more:link, #learn-more:active, #learn-more:hover, #learn-more:visited {
+  color: rgb(23,131,187);
+}
