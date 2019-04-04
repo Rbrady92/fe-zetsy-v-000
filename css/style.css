@@ -39,3 +39,8 @@ h1 {
   border: 5px solid #98ADA6;
   margin-top: 0;
 }
+
+h2 {
+  color: rgb(111, 127, 122);
+  font-size: 2em;
+}
