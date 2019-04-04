@@ -51,6 +51,12 @@ p {
   margin: 0 0 20px 0;
 }
 
-#learn-more:link, #learn-more:active, #learn-more:hover, #learn-more:visited {
-  color: rgb(23,131,187);
+
+
+#learn-more {
+  text-decoration: none;
+}
+
+#learn-more:hover {
+  text-decoration: underline;
 }
